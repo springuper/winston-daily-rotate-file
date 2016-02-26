@@ -10,8 +10,8 @@ var events = require('events'),
     fs = require('fs'),
     path = require('path'),
     util = require('util'),
-    common = require('winston/lib/winston/common'),
-    Transport = require('winston').Transport,
+    common = require('springuper-winston/lib/winston/common'),
+    Transport = require('springuper-winston').Transport,
     Stream = require('stream').Stream,
     os = require('os');
 

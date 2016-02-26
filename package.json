@@ -1,6 +1,6 @@
 {
   "name": "springuper-winston-daily-rotate-file",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A transport for winston which logs to a rotating file each day.",
   "main": "index.js",
   "scripts": {
